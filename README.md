@@ -31,7 +31,7 @@ i was bored.
 
 ---
 
-## technical details
+## details
 
 this tool depends on:
 - **intel rapl** (running average power limit)
