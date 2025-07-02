@@ -1,5 +1,8 @@
 # cpu wattage monitor  
+
 a simple cpu wattage monitor made in java.
+
+---
 
 ### usage  
 you can build the project yourself or just grab the compiled jar here:  
